@@ -1,3 +1,5 @@
+This is the Age of Empire
+
 Generations ago, humanity came to Axandor Tor as refugees.
 
 They survived crossing the ocean, built Dawnport upon its shores, and slowly spread across a continent that was never meant to be theirs. They fought the giants alongside the dwarves, raised kingdoms, and spent centuries warring among themselves.

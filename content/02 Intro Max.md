@@ -1,3 +1,5 @@
+This is the age of Kingdoms
+
 Centuries have passed since humanity first came to Axandor Tor.
 
 Long ago, your ancestors fled their homeland across the sea, escaping a calamity so terrible that its true nature was lost to time. They arrived as strangers on an unfamiliar continent, built Dawnport upon its shores, and began the long struggle to make Axandor Tor their home.

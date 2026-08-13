@@ -1,3 +1,5 @@
+This is the age of Landfall
+
 Generations ago, your ancestors fled their homeland in haste, crossing the ocean aboard ships built with little time and fewer provisions. They sailed east, leaving behind a calamity so terrible that those who survived have rarely spoken of it since.
 
 You were born on the continent your people now call Axandor Tor.

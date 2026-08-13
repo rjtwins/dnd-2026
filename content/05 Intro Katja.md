@@ -1,3 +1,5 @@
+This is the Age of Chaos
+
 Its history old, the empire had grown fat.
 
 For a century peace had held, and with peace came wealth. The cities grew, the imperial court grew richer, and the great families accumulated land, titles and slaves. What had once been an empire built on conquest and law had become a place of indulgence.

@@ -1,3 +1,5 @@
+This is the Age of the Conqueror
+
 Generations ago, humanity first came to Axandor Tor.
 
 Arriving as refugees, crossing the sea from an ancient homeland they had abandoned in haste. Calamity had driven them from their old world so terrible that those who survived rarely spoke of it.
