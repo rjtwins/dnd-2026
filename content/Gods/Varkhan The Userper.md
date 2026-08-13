@@ -9,6 +9,7 @@ Lesser Powers:
 * **Velka, The Iron Crown** — Absolute monarchy and unquestioned authority.  
 * **Damar, The Victor** — Competition, triumph and defeating one's rivals.  
 * **Arveth, The Ambitious** — Personal ambition, advancement and ruthless success.
+
 Spirits:
 * **The Red Throne** — The divine embodiment of power and rulership.  
 * **The Usurped King** — Those who seize a position that was never rightfully theirs.  

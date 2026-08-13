@@ -8,6 +8,7 @@ Lesser Powers:
 * **Hadrik, The Shieldbearer** — Soldiers who defend rather than conquer.  
 * **Myrra, The Hearthguard** — Homes, families and domestic safety.  
 * **Oren, The Watchman** — Vigilance, guards, sentries and watchmen.
+
 Spirits:
 * **The Last Sentinel** — Those who stand guard when everyone else has fled.  
 * **The Old Oak** — Endurance, shelter and protection from the elements.

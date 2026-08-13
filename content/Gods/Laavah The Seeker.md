@@ -11,6 +11,7 @@ Lesser powers:
 * **Elyra, The Unanswered Question** — Mysteries, riddles, curiosity and unanswered questions.  
 * **Perrin, The Open Door** — Opportunity, beginnings, adventure and unexpected chances.  
 * **Sella, The Young Heart** — Youth, optimism, play and youthful courage.
+
 Spirits:
 * **The Wandering Star** — Exploration and journeys into unknown lands.  
 

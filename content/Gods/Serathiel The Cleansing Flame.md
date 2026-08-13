@@ -9,6 +9,7 @@ Lesser Powers:
 * **Avariel, The White Sword** — Holy warriors, righteous warfare and defense against corruption.  
 * **Cyran, The Flamekeeper** — Sacred fire, temples and religious ritual.  
 * **Ilyra, The Unblemished** — Virtue, innocence, chastity and moral purity.
+
 Spirits:
 * **The Burning Eye** — Truth, revelation and exposing corruption.  
 * **The Ashen Hand** — Purification through destruction.  

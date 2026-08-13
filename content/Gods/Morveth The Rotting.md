@@ -7,6 +7,7 @@ Moto: “Everything that lives will rot. Everything that is built will crumble. 
 Lesser Powers:
 * **Nhalia, The Plague-Mother** — Disease, epidemics and infection.  
 * **Gorath, The Worm-King** — Corpses, worms and decomposition.
+
 Spirits:
 * **The Carrion Crow** — Scavengers and creatures that feed upon the dead.  
 * **The Corpse Tree** — Undeath rooted in the physical world.  
