@@ -16,3 +16,7 @@ Lesser powers:
 Spirits:
 * **The Iron Judge** — A mysterious divine figure said to appear when a ruler must make an impossible judgment.  
 * **The First Soldier** — The ideal of the soldier who obeys orders while accepting responsibility for their actions.
+
+Organization:
+Aureth has temples in almost all major or minor cities.
+Temples to Aureth share a unified priesthood.

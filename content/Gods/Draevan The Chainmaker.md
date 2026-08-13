@@ -1,4 +1,3 @@
-## **Draevan The Chainmaker**
 (Lawfull Evil)  
 Slavery · Obedience · Punishment · Cruelty 
 Worshippers:  Slaveholders, jailers, inquisitors, cruel rulers

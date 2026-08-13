@@ -1,5 +1,4 @@
-## **Morveth The Rotting**
- (Chaotic Evil)  
+(Chaotic Evil)  
 Decay · Disease · Corruption · Entropy  
 Worshippers:  Necromancers, plague cults, the desperate.  
 Moto: “Everything that lives will rot. Everything that is built will crumble. I merely hasten what was always coming.”

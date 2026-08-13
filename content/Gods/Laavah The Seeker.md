@@ -1,4 +1,3 @@
-## **Laavah The Seeker**,  
 (Chaotic neutral)  
 Youth · Song · Travel · Mystery · Discovery  
 Worshipped by Adventurers, Bards, Musicians, Scholars.
@@ -16,3 +15,8 @@ Spirits:
 * **The Wandering Star** — Exploration and journeys into unknown lands.  
 
 * **The Nameless Child** — Curiosity, innocence and the desire to understand the world.
+
+Organization:
+Laavah does not have an organized religion.
+There are few temples even in major cities and they do not have a priesthood.
+Their shrines can be found along roads, inn and other places travelers frequent.

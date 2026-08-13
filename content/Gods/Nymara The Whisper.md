@@ -1,4 +1,3 @@
-## **Nymara The Whisper**
 (Neutral Evil)  
 Secrets · Deception · Intrigue · Betrayal  
 Worshippers:  Spies, criminals, conspirators, assassins

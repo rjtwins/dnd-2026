@@ -12,3 +12,10 @@ Lesser Powers:
 Spirits:
 * **The Last Sentinel** — Those who stand guard when everyone else has fled.  
 * **The Old Oak** — Endurance, shelter and protection from the elements.
+
+Organization:
+Most major cities or towns will have a temple to Thalor.
+Shrines can also be found in martial places, like forts, castles and places soldiers frequent.
+Furthermore shrines can be found in peoples homes.
+Thalor priesthood is organized and unified.
+There are many martial organizations dedicated to Thalor.

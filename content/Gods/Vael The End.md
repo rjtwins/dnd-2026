@@ -1,4 +1,3 @@
-## **Vael The End**,
 (True Neutral)  
 Death · Dying · Funerals · Passing On  
 Worshipped by, The dying, Terminal ill, Soldiers, Those in mortal danger.
@@ -12,3 +11,8 @@ Lesser Powers:
 Spirits:
 * **The Pale Midwife** — Death during childbirth and the strange boundary between life and death. 
 * **The Black Hound** — Guardian of graves and hunter of those who attempt to escape death.
+
+Organization:
+There are no temples to Vael.
+Shrines can be found near major sites of death or burial.
+Veal has a small unorganized priesthood.

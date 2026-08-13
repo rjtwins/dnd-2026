@@ -1,4 +1,3 @@
-## **Liora The Gentle** **Flame**,
 (Chaotic Good) 
 Life · Light · Healing  
 Worshipped by, Parents, Docters, Healers
@@ -15,3 +14,8 @@ Lesser Powers:
 Spirits:
 * **The Golden Stag** — Vitality, nature and healthy life.  
 * **The Little Flame** — Household protection, lamps, hearths and keeping a home alive.
+
+Organization:
+Almost any city or town will have a temple or shrine to Liora.
+Liora's priesthood is unorganized and not unified between temples.
+Shrines can also be found in places of warmth or home.
